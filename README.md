@@ -22,12 +22,12 @@ The model was evaluated on a test set of 565,576 samples from the CIC-IDS2017 da
 | **F1-Score** | **99.71%** |
 
 ## Requirements
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-joblib
+•	pandas
+•	numpy
+•	matplotlib
+•	seaborn
+•	scikit-learn
+•	joblib
 
 
 
