@@ -11,28 +11,7 @@ This project uses the CIC-IDS2017 flow-based intrusion detection dataset.
 Due to size constraints, the dataset is not included in this repository.
 Instructions to download and prepare the data are provided in the `data/` directory.
 
-## 📊 Performance Results (Binary Classification)
 
-The model was evaluated on a test set of 565,576 samples from the CIC-IDS2017 dataset, yielding the following results:
-| Metric | Score |
-| --- | --- |
-| **Accuracy** | **99.89%** |
-| **Precision** | **99.53%** |
-| **Recall** | **99.89%** |
-| **F1-Score** | **99.71%** |
-
-## Requirements
-•	pandas
-
-•	numpy
-
-•	matplotlib
-
-•	seaborn
-
-•	scikit-learn
-
-•	joblib
 
 
 
