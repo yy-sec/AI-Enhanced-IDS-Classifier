@@ -23,20 +23,24 @@ Instructions to download and prepare the data are provided in the `data/` direct
 
 ## Workflow
 ### 1.	Data Exploration
-o	Analyze distributions and class imbalance
-o	Identify missing and invalid values
+* Analyze distributions and class imbalance
+* Identify missing and invalid values
+* 
 ### 2.	Data Cleaning & Preprocessing
-o	Remove NaN and empty values
-o	Drop unnecessary index columns
-o	Scale numerical features
+* Remove NaN and empty values
+* Drop unnecessary index columns
+* Scale numerical features
+  
 ### 3.	Label Engineering
-o	Convert multi-class labels into binary labels
+* Convert multi-class labels into binary labels
+  
 ### 4.	Model Training
-o	Train a binary classification ML model
-o	Save trained model and preprocessing objects
+* Train a binary classification ML model
+* Save trained model and preprocessing objects
+
 ### 5.	Evaluation
-o	Confusion matrix
-o	Performance metrics
+* Confusion matrix
+* Performance metrics
 
 
 
