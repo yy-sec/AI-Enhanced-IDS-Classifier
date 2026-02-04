@@ -21,6 +21,24 @@ This project uses the CIC-IDS2017 flow-based intrusion detection dataset.
 Due to size constraints, the dataset is not included in this repository.
 Instructions to download and prepare the data are provided in the `data/` directory.
 
+## Workflow
+### 1.	Data Exploration
+o	Analyze distributions and class imbalance
+o	Identify missing and invalid values
+### 2.	Data Cleaning & Preprocessing
+o	Remove NaN and empty values
+o	Drop unnecessary index columns
+o	Scale numerical features
+### 3.	Label Engineering
+o	Convert multi-class labels into binary labels
+### 4.	Model Training
+o	Train a binary classification ML model
+o	Save trained model and preprocessing objects
+### 5.	Evaluation
+o	Confusion matrix
+o	Performance metrics
+
+
 
 
 
