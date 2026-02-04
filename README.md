@@ -6,8 +6,11 @@ Currently, the system is optimized for Binary Classification, Future iterations 
 
 ## Objectives
 •	Analyze network flow data derived from PCAP files
+
 •	Clean and preprocess real-world cybersecurity datasets
+
 •	Handle class imbalance common in intrusion detection datasets
+
 •	Train and evaluate a machine learning model for attack detection
 
 
