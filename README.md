@@ -25,7 +25,7 @@ Instructions to download and prepare the data are provided in the `data/` direct
 ### 1.	Data Exploration
 * Analyze distributions and class imbalance
 * Identify missing and invalid values
-* 
+  
 ### 2.	Data Cleaning & Preprocessing
 * Remove NaN and empty values
 * Drop unnecessary index columns
