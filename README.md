@@ -5,10 +5,11 @@ This project implements a flow-based Network Intrusion Detection System (NIDS) d
 Currently, the system is optimized for Binary Classification, Future iterations will expand into Multi-class Classification to identify specific attack vectors.
 
 ## Objectives
-Analyze network flow data derived from PCAP files
-Clean and preprocess real-world cybersecurity datasets
-Handle class imbalance common in intrusion detection datasets
-Train and evaluate a machine learning model for attack detection
+•	Analyze network flow data derived from PCAP files
+•	Clean and preprocess real-world cybersecurity datasets
+•	Handle class imbalance common in intrusion detection datasets
+•	Train and evaluate a machine learning model for attack detection
+
 
 ## Dataset
 
